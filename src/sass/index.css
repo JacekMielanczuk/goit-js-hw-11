@@ -47,7 +47,7 @@ body {
   padding-top: 20px;
   padding-bottom: 20px;
   justify-content: center;
-  background-image: linear-gradient(to right, rgba(96, 7, 104, 0.5843137255), #4cffdb);
+  background-image: linear-gradient(to right, #083fb0, #4dfb11);
 }
 
 .btn {
